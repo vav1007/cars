@@ -1,0 +1,25 @@
+@media all and (max-width: 299px) {
+.res-left{float:right;padding:0px}
+}
+
+@media all and (min-width: 300px) and (max-width: 480px) { 
+    .res-left{float:right;padding:0px} .header-top{height:80px;} .header-top a img{height:80px;}
+    .navbar-toggle .icon-bar{background:#fff !important;} 
+   
+} 
+@media all and (min-width: 481px) and (max-width: 767px) {
+
+}
+
+@media all and (min-width: 768px) and (max-width: 979px) {
+
+}
+
+@media all and (min-width: 980px) and (max-width: 1199px) {
+  
+}
+
+@media all and (min-width: 1200px) and (max-width: 1350px) {
+    .navbar ul li a{padding:5px 12px;} 
+    .navbar ul li a:hover{padding:5px 12px;}  
+}
